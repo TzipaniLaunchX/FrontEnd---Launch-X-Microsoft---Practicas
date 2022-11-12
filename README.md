@@ -26,9 +26,18 @@ Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2
 
 ## <sub> TOMA DE REQUERIMIENTOS </sub>
 - Creación de una página web responsive (Web/Movil)
-- Roles: `Usuario`, 'Administrador' y 'Sistema'.
-- Inicio de sesión de 'Usuario' y 'Administrador'.
+- Roles: `Usuario`, `Administrador` y `Sistema`.
+- Inicio de sesión de `Usuario` y `Administrador`.
 __________________________________________________________________________
-### Usuario
-- Inicio de sesión 
+### `Usuario`
+- Inicio de sesión/Creación de cuenta
+  - Se requiere Nombre completo e e-mail.
+- Formulario con los datos del cliente y de la demanda. 
+- Procesamiento de pago
+  - Metodo de pago [Tarjeta de crédito/débito, transferencia bancaria, Déposito en punto de venta]
+- Seguimiento de la/s demanda/s.
+- Notificaciones vía e-mail.
+
+### `Administrador` 
+
 
