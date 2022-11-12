@@ -1,7 +1,7 @@
 ## FrontEnd-Launch-X-Microsoft-Practicas
 Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2022 del Launch X - LATAM
 
-#Práctica ABOGABOT
+# Práctica ABOGABOT
 
 ## <sub> ÍNDICE </sub>
 Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
