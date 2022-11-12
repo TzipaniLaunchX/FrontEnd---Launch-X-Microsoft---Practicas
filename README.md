@@ -4,7 +4,7 @@ Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2
 # Práctica ABOGABOT
 
 ## <sub> ÍNDICE </sub>
-- https://github.com/TzipaniLaunchX/FrontEnd---Launch-X-Microsoft---Practicas/blob/main/README.md#-%C3%ADndice-
+- 
 ## <sub> DESCRIPCIÓN DEL CASO </sub>
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
@@ -25,5 +25,10 @@ Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 ## <sub> TOMA DE REQUERIMIENTOS </sub>
-
+- Creación de una página web responsive (Web/Movil)
+- Roles: <Usuario>, <Administrador> y <Sistema>.
+- Inicio de sesión de Usuario y Administrador.
+__________________________________________________________________________
+### Usuario
+- Inicio de sesión 
 
