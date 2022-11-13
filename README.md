@@ -1,11 +1,11 @@
 ## FrontEnd-Launch-X-Microsoft-Practicas
 Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2022 del Launch X - LATAM
 
-# Práctica ABOGABOT
+# `Práctica ABOGABOT`
 
-## <sub> ÍNDICE </sub>
+## `<sub> ÍNDICE </sub>`
 - 
-## <sub> DESCRIPCIÓN DEL CASO </sub>
+## `<sub> DESCRIPCIÓN DEL CASO </sub>`
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
@@ -22,22 +22,32 @@ Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2
 
 - La página debe de ser responsive para poderla ver desde el celular.
 
-- La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+- La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-## <sub> TOMA DE REQUERIMIENTOS </sub>
+______________________________________________________________________________________________
+
+## `<sub> TOMA DE REQUERIMIENTOS </sub>`
 - Creación de una página web responsive (Web/Movil)
 - Roles: `Usuario`, `Administrador` y `Sistema`.
 - Inicio de sesión de `Usuario` y `Administrador`.
-__________________________________________________________________________
+
 ### `Usuario`
 - Inicio de sesión/Creación de cuenta
   - Se requiere Nombre completo e e-mail.
 - Formulario con los datos del cliente y de la demanda. 
 - Procesamiento de pago
-  - Metodo de pago [Tarjeta de crédito/débito, transferencia bancaria, Déposito en punto de venta]
+  - Metodo de pago [Tarjeta de crédito/débito, transferencia bancaria, Depósito en punto de venta]
 - Seguimiento de la/s demanda/s.
-- Notificaciones vía e-mail.
+- Recepción de notificaciones de actualización de la demanda vía e-mail.
 
 ### `Administrador` 
+- Notificación de nueva demanda en el sistema e e-mail con cada nueva demanda.
+- Generación de un documento word (.doc) generado por el sistema, con la información de la demanda proporcionada por el cliente.
+- Recepción de pago [Cuenta bancaria, Wallet, etc.]
+- Dashboard con balance de ingresos
+  - Sección para ver información de cada depósito recibido.
+  - Código de asignación para rastrear que pago corresponde a que demanda.
+- Opción para añadir comentarios de actualización del proceso de demanda.
 
+### 
 
