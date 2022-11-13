@@ -3,9 +3,10 @@ Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2
 
 # `Práctica ABOGABOT`
 
-## `<sub> ÍNDICE </sub>`
-- 
-## `<sub> DESCRIPCIÓN DEL CASO </sub>`
+## <sub> `Índice` </sub>'
+
+_____________________________________________________________________________________________
+## <sub> `Descripción del caso` </sub>
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
@@ -26,7 +27,7 @@ Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2
 
 ______________________________________________________________________________________________
 
-## `<sub> TOMA DE REQUERIMIENTOS </sub>`
+## <sub> `Toma de requerimientos` </sub>
 - Creación de una página web responsive (Web/Movil)
 - Roles: `Usuario`, `Administrador` y `Sistema`.
 - Inicio de sesión de `Usuario` y `Administrador`.
@@ -49,5 +50,5 @@ ________________________________________________________________________________
   - Código de asignación para rastrear que pago corresponde a que demanda.
 - Opción para añadir comentarios de actualización del proceso de demanda.
 
-### 
+### ´Sistema´
 
