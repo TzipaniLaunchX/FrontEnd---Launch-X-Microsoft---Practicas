@@ -3,7 +3,7 @@ Repositorio de las prácticas realizadas en la Misión FrontEnd de la edición 2
 
 # `Práctica ABOGABOT`
 
-## <sub> `Índice` </sub>'
+## <sub> `Índice` </sub>
 
 _____________________________________________________________________________________________
 ## <sub> `Descripción del caso` </sub>
