@@ -50,9 +50,12 @@ ________________________________________________________________________________
   - Código de asignación para rastrear que pago corresponde a que demanda.
 - Opción para añadir comentarios de actualización del proceso de demanda.
 
-### Sistema
+### `Sistema`
 - Generación de documento Word (.doc) con la información proporcionada por el cliente en el formulario.
 - Diseño en color azul marino y blanco (se aceptan otros).
 
 ____________________________________________________________________________________________________
+
+## <sub> `Buyer persona` </sub>
+
 
