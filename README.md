@@ -43,12 +43,16 @@ ________________________________________________________________________________
 
 ### `Administrador` 
 - Notificación de nueva demanda en el sistema e e-mail con cada nueva demanda.
-- Generación de un documento word (.doc) generado por el sistema, con la información de la demanda proporcionada por el cliente.
+- Recepción de un documento Word (.doc) generado por el sistema, con la información de la demanda proporcionada por el cliente.
 - Recepción de pago [Cuenta bancaria, Wallet, etc.]
 - Dashboard con balance de ingresos
   - Sección para ver información de cada depósito recibido.
   - Código de asignación para rastrear que pago corresponde a que demanda.
 - Opción para añadir comentarios de actualización del proceso de demanda.
 
-### ´Sistema´
+### Sistema
+- Generación de documento Word (.doc) con la información proporcionada por el cliente en el formulario.
+- Diseño en color azul marino y blanco (se aceptan otros).
+
+____________________________________________________________________________________________________
 
