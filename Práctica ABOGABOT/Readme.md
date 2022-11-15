@@ -55,3 +55,6 @@ ________________________________________________________________________________
 ![Target Audience](https://user-images.githubusercontent.com/114957103/201803322-d10dc370-4de1-477f-a51b-5ec7a7a31d69.jpg)
 Este diagrama fue creado en [miro] (https://miro.com/app/board/uXjVPEM4_Ik=/?share_link_id=587411906097)
 
+## `Diagrama de flujo`
+<img width="4313" alt="Diagrama de flujo ABOGABOT" src="https://user-images.githubusercontent.com/114957103/201812382-a4d0ce6a-cd26-48c2-abc0-7bb6b9425dc6.png">
+Diagrama de flujo generado en [Figma] (https://www.figma.com/file/c9X5l67WMKiseBEsWmPWvO/Diagrama-de-flujo-ABOGABOT?node-id=0%3A1&t=jhQuOpazLIXQgear-1)
