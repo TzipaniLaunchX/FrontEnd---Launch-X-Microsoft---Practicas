@@ -58,3 +58,9 @@ Este diagrama fue creado en [miro] (https://miro.com/app/board/uXjVPEM4_Ik=/?sha
 ## `Diagrama de flujo`
 <img width="4313" alt="Diagrama de flujo ABOGABOT" src="https://user-images.githubusercontent.com/114957103/201812382-a4d0ce6a-cd26-48c2-abc0-7bb6b9425dc6.png">
 Diagrama de flujo generado en [Figma] (https://www.figma.com/file/c9X5l67WMKiseBEsWmPWvO/Diagrama-de-flujo-ABOGABOT?node-id=0%3A1&t=jhQuOpazLIXQgear-1)
+
+## `Wireframe UX`
+
+
+## `UI`
+La versión UI de la página web para movil, tablet y de escritorio se realizó en [Figma] (https://www.figma.com/file/7CFA29d7oD3IodwFR5QvVq/ABOGABOT-Mobile-First-(initial)?node-id=0%3A1&t=t8aETXIXltRryaR7-1)
