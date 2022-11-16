@@ -63,4 +63,6 @@ Diagrama de flujo generado en [Figma] (https://www.figma.com/file/c9X5l67WMKiseB
 
 
 ## `UI`
+![UI ABOGABOT](https://user-images.githubusercontent.com/114957103/202314385-bfb6aad7-2c21-4bad-acb9-c747fbce4e4f.png)
+
 La versión UI de la página web para movil, tablet y de escritorio se realizó en [Figma] (https://www.figma.com/file/7CFA29d7oD3IodwFR5QvVq/ABOGABOT-Mobile-First-(initial)?node-id=0%3A1&t=t8aETXIXltRryaR7-1)
