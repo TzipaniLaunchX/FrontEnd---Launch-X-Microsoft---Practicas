@@ -60,8 +60,9 @@ Este diagrama fue creado en [miro] (https://miro.com/app/board/uXjVPEM4_Ik=/?sha
 Diagrama de flujo generado en [Figma] (https://www.figma.com/file/c9X5l67WMKiseBEsWmPWvO/Diagrama-de-flujo-ABOGABOT?node-id=0%3A1&t=jhQuOpazLIXQgear-1)
 
 ## `Wireframe UX`
+![Wireframe UX ABOGABOT](https://user-images.githubusercontent.com/114957103/202346761-a5a664c1-c2a0-4749-bc8e-bd915bc1e51e.png)
 
-
+El wireframe UX se realizo en [balsamiq] (https://drive.google.com/file/d/1_82_b8Gt98ZYVR_tY1eWS8QLsRyfl355/view?usp=sharing)
 ## `UI`
 ![UI ABOGABOT](https://user-images.githubusercontent.com/114957103/202314385-bfb6aad7-2c21-4bad-acb9-c747fbce4e4f.png)
 
